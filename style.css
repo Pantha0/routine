@@ -16,8 +16,8 @@ body {
   text-align: center;
   text-decoration: underline;
   letter-spacing: 0.05em;
-  text-shadow: 0px 0px 25px #616161c2;
-  color: tomato;
+  text-shadow: 0px 0px 2px #ffffff;
+  color: rgb(20, 247, 247);
 }
 
 .routine-box {
@@ -60,7 +60,7 @@ body {
 }
 .routine-box-row > div:hover {
   color: #fff;
-  background-color: #3d3c3c;
+  background-color: #110f0f;
 }
 .routine-box-row > div:first-child {
   color: rgb(255, 255, 255);
@@ -77,5 +77,6 @@ body {
 }
 
 .conciling-text {
-  color: tomato !important;
+  color: rgb(126, 124, 124) !important;
+  letter-spacing: 0.05em;
 }
