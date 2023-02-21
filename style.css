@@ -53,6 +53,14 @@ body {
   text-align: center;
   padding: 10px 0px;
   /* height: 80px; */
+  color: #fff;
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Nunito Sans";
+}
+.routine-box-row > div:hover {
+  color: #fff;
+  background-color: #3d3c3c;
 }
 .routine-box-row > div:first-child {
   color: rgb(255, 255, 255);
@@ -66,4 +74,8 @@ body {
 }
 .full-col-width {
   width: 91.5% !important;
+}
+
+.conciling-text {
+  color: tomato !important;
 }
